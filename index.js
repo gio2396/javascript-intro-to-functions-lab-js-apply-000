@@ -15,3 +15,7 @@ function sayHiToGrandma(string){
   var uppercase = string.toLowerCase
   return "I can't hear you!"
 }
+function sayHiToGrandma(string){
+  var uppercase = string.toUpperCase
+  return "YES INDEED!"
+}
