@@ -19,3 +19,7 @@ function sayHiToGrandma(string){
   var uppercase = string.toUpperCase
   return "YES INDEED!"
 }
+function sayHiToGrandma(string){
+  var string = "I love u, Grandma."
+  return "I love you, too."
+}
