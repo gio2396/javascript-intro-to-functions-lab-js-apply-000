@@ -20,6 +20,5 @@ function sayHiToGrandma(string){
   return "YES INDEED!"
 }
 function sayHiToGrandma(string){
-  var gio = "I love u, Grandma."
   return "I love you, too."
 }
